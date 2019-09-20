@@ -1,0 +1,203 @@
+
+    [
+        {
+            "Name" : "GO",
+            "Placement" : "0",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Mediteranian Avenue",
+            "Placement" : "1",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Community Chest",
+            "Placement" : "2",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Baltic Avenue",
+            "Placement" : "3",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Income Tax",
+            "Placement" : "4",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Reading Railroad",
+            "Placement" : "5",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Oriental Avenue",
+            "Placement" : "6",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Chance",
+            "Placement" : "7",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Vermont Avenue",
+            "Placement" : "8",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Conneticut Avenue",
+            "Placement" : "9",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Jail",
+            "Placement" : "10",
+            "Landed" : 0
+        },
+        {
+            "Name" : "ST. James Place",
+            "Placement" : "11",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Electric Company",
+            "Placement" : "12",
+            "Landed" : 0
+        },
+        {
+            "Name" : "States Avenue",
+            "Placement" : "13",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Virginia Avenue",
+            "Placement" : "14",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Pennsylvania Railroad",
+            "Placement" : "15",
+            "Landed" : 0
+        },
+        {
+            "Name" : "ST. James Avenue",
+            "Placement" : "16",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Community Chest",
+            "Placement" : "17",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Tennesse Avenue",
+            "Placement" : "18",
+            "Landed" : 0
+        },
+        {
+            "Name" : "New York",
+            "Placement" : "19",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Free Parking",
+            "Placement" : "20",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Kentucky Avenue",
+            "Placement" : "21",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Chance",
+            "Placement" : "22",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Indiana Avenue",
+            "Placement" : "23",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Illinois Avenue",
+            "Placement" : "24",
+            "Landed" : 0
+        },
+        {
+            "Name" : "B & O Railroad",
+            "Placement" : "25",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Atlantic Avenue",
+            "Placement" : "26",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Ventnor Avenue",
+            "Placement" : "27",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Water Works",
+            "Placement" : "28",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Marvin Gardens",
+            "Placement" : "29",
+            "Landed" : 0
+        },
+        {
+            "Name" : "GO TO Jail",
+            "Placement" : "30",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Pacific Avenue",
+            "Placement" : "31",
+            "Landed" : 0
+        },
+        {
+            "Name" : "North Carolina Avenue",
+            "Placement" : "32",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Community Chest",
+            "Placement" : "33",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Pennsylvania Avenue",
+            "Placement" : "34",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Short Line",
+            "Placement" : "35",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Chance",
+            "Placement" : "36",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Park Place",
+            "Placement" : "37",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Luxury Tax",
+            "Placement" : "38",
+            "Landed" : 0
+        },
+        {
+            "Name" : "Boardwalk",
+            "Placement" : "39",
+            "Landed" : 0
+        }
+    ]
