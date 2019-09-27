@@ -29,15 +29,20 @@ class Database:
     def createGraph(self):
         name = []
         timesLanded = []
+        costs = []
+        rents = []
         self.removeDataPoints() # Removes All non-properties
         prop = self.db.all()
         for doc in prop:
             name.append(doc['Name'])
             timesLanded.append(doc['Landed'])
+            costs.append(doc['Cost'])
+            rents.append(doc['Rent'])
         timesLanded = self.convertToPercent(timesLanded)
-        _graph = Graph(name, timesLanded)
+        _graph = Graph(name, timesLanded, costs, rents)
 
-        _graph.barChart()
+        #_graph.barChart()
+        _graph.lineChart()
 
     def convertToPercent(self, values):
         timesLanded = []

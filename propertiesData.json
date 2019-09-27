@@ -8,7 +8,9 @@
         {
             "Name" : "Mediteranian Avenue",
             "Placement" : "1",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 60,
+            "Rent" :  2
         },
         {
             "Name" : "Community Chest",
@@ -18,7 +20,9 @@
         {
             "Name" : "Baltic Avenue",
             "Placement" : "3",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 60,
+            "Rent" :  4
         },
         {
             "Name" : "Income Tax",
@@ -28,12 +32,16 @@
         {
             "Name" : "Reading Railroad",
             "Placement" : "5",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 200,
+            "Rent" :  25
         },
         {
             "Name" : "Oriental Avenue",
             "Placement" : "6",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 100,
+            "Rent" :  6
         },
         {
             "Name" : "Chance",
@@ -43,12 +51,16 @@
         {
             "Name" : "Vermont Avenue",
             "Placement" : "8",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 100,
+            "Rent" :  6
         },
         {
             "Name" : "Conneticut Avenue",
             "Placement" : "9",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 120,
+            "Rent" :  8
         },
         {
             "Name" : "Jail",
@@ -56,34 +68,46 @@
             "Landed" : 0
         },
         {
-            "Name" : "ST. James Place",
+            "Name" : "ST. Charles Place",
             "Placement" : "11",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 140,
+            "Rent" :  10
         },
         {
             "Name" : "Electric Company",
             "Placement" : "12",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 150,
+            "Rent" :  12
         },
         {
             "Name" : "States Avenue",
             "Placement" : "13",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 140,
+            "Rent" :  10
         },
         {
             "Name" : "Virginia Avenue",
             "Placement" : "14",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 160,
+            "Rent" :  12
         },
         {
             "Name" : "Pennsylvania Railroad",
             "Placement" : "15",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 200,
+            "Rent" :  50
         },
         {
-            "Name" : "ST. James Avenue",
+            "Name" : "ST. James Place",
             "Placement" : "16",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 180,
+            "Rent" :  14
         },
         {
             "Name" : "Community Chest",
@@ -93,12 +117,16 @@
         {
             "Name" : "Tennesse Avenue",
             "Placement" : "18",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 180,
+            "Rent" :  14
         },
         {
-            "Name" : "New York",
+            "Name" : "New York Avenue",
             "Placement" : "19",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 200,
+            "Rent" :  16
         },
         {
             "Name" : "Free Parking",
@@ -108,7 +136,9 @@
         {
             "Name" : "Kentucky Avenue",
             "Placement" : "21",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 220,
+            "Rent" :  18
         },
         {
             "Name" : "Chance",
@@ -118,37 +148,51 @@
         {
             "Name" : "Indiana Avenue",
             "Placement" : "23",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 220,
+            "Rent" :  18
         },
         {
             "Name" : "Illinois Avenue",
             "Placement" : "24",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 240,
+            "Rent" :  20
         },
         {
             "Name" : "B & O Railroad",
             "Placement" : "25",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 200,
+            "Rent" :  50
         },
         {
             "Name" : "Atlantic Avenue",
             "Placement" : "26",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 260,
+            "Rent" :  22
         },
         {
             "Name" : "Ventnor Avenue",
             "Placement" : "27",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 260,
+            "Rent" :  22
         },
         {
             "Name" : "Water Works",
             "Placement" : "28",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 150,
+            "Rent" :  12
         },
         {
             "Name" : "Marvin Gardens",
             "Placement" : "29",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 280,
+            "Rent" :  24
         },
         {
             "Name" : "GO TO Jail",
@@ -158,12 +202,16 @@
         {
             "Name" : "Pacific Avenue",
             "Placement" : "31",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 300,
+            "Rent" :  26
         },
         {
             "Name" : "North Carolina Avenue",
             "Placement" : "32",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 300,
+            "Rent" :  26
         },
         {
             "Name" : "Community Chest",
@@ -173,12 +221,16 @@
         {
             "Name" : "Pennsylvania Avenue",
             "Placement" : "34",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 320,
+            "Rent" :  28
         },
         {
             "Name" : "Short Line",
             "Placement" : "35",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 200,
+            "Rent" :  50
         },
         {
             "Name" : "Chance",
@@ -188,7 +240,9 @@
         {
             "Name" : "Park Place",
             "Placement" : "37",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 350,
+            "Rent" :  35
         },
         {
             "Name" : "Luxury Tax",
@@ -198,6 +252,8 @@
         {
             "Name" : "Boardwalk",
             "Placement" : "39",
-            "Landed" : 0
+            "Landed" : 0,
+            "Cost" : 400,
+            "Rent" :  50
         }
     ]
